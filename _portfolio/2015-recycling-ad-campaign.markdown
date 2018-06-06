@@ -1,6 +1,9 @@
 ---
 title: 2015 | Recycling Ad Campaign
 date: 2018-06-06 18:42:00 Z
+thumbnail image: "/uploads/recycle_thumb.jpg"
+full image: "/uploads/ad_cam_full.png"
+caption: Recycling Ad Campaign - Silver Student Addy Award
 ---
 
 For my ad campaign, I was thinking a lot about how the world is affected by our trash, and how important it is for us as a society to ensure that we minimize our effect on the environment.
