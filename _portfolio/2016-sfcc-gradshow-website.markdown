@@ -1,6 +1,8 @@
 ---
 title: 2016 | SFCC Gradshow Website
 date: 2018-06-06 18:30:00 Z
+thumbnail image: "/uploads/Spectrum-Website.jpg"
+caption: SFCC 2016 Gradshow Website - Silver Addy Award
 ---
 
 Working alongside Ryan Green, a fellow student at SFCC we developed the website for the 2016 Addy awards. We started with a prebuilt theme due to our limited time. And expanded on it with the design elements that we wanted to emphasize.
