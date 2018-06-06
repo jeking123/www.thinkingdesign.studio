@@ -1,7 +1,7 @@
 ---
 title: 2016 | SFCC Gradshow Website
 date: 2018-06-06 18:30:00 Z
-position: 2
+position: 3
 thumbnail image: "/uploads/Spectrum-Website.jpg"
 caption: SFCC 2016 Gradshow Website - Silver Student Addy Award
 ---
