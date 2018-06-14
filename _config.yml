@@ -25,4 +25,4 @@ defaults:
     layout: page
 permalink: pretty
 plugins:
-  - jekyll-sitemap
+- jekyll-sitemap
