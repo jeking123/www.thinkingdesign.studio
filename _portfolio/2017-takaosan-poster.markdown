@@ -3,8 +3,8 @@ title: 2017 | Takaosan Poster
 date: 2018-06-06 18:53:00 Z
 position: 0
 layout: projects
-thumbnail image: http://via.placeholder.com/500x500
-full image: http://via.placeholder.com/1200x400
+thumbnail-image: http://via.placeholder.com/500x500
+full-image: http://via.placeholder.com/1200x400
 caption: Takaosan Poster illustration and branding
 ---
 

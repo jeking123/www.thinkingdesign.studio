@@ -3,8 +3,8 @@ title: 2017 | Schwartz Silver Booklet
 date: 2018-06-06 18:55:00 Z
 position: 1
 layout: projects
-thumbnail image: http://via.placeholder.com/500x500
-full Image: http://via.placeholder.com/1200x400
+thumbnail-image: http://via.placeholder.com/500x500
+full-Image: http://via.placeholder.com/1200x400
 caption: Schwartz Silver Booklet editorial design
 ---
 
