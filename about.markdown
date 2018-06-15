@@ -1,7 +1,7 @@
 ---
 title: About
-layout: hire-me
 date: 2018-04-25 23:38:00 Z
+layout: hire-me
 image: 
 ---
 
