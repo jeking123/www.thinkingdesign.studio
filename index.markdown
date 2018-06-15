@@ -8,4 +8,4 @@ Over the last five years, I've been a student. First at Spokane Fall Community C
 
 Although, during all this, I've been a student. Maybe, it's time to start looking at this differently. With my educational career coming to a close in the near future, it's time to start thinking design.
 
->– Jeremy King | Spokane, Washington
+– Jeremy King | Spokane, Washington
