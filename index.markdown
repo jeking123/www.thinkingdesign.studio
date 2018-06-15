@@ -1,5 +1,6 @@
 ---
 title: index
+layout: default
 date: 2018-06-04 22:04:00 Z
 ---
 

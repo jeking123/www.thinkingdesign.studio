@@ -1,5 +1,6 @@
 ---
 title: Best Design Advice
+layout: projects
 date: 2018-06-04 21:28:00 Z
 ---
 

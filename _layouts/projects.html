@@ -1,24 +1,10 @@
-<!-- Site Meta Data via Nunjucks -->
- {% set site = {
-    
-        'title' : 'Thinking Design',
-        'email' : 'swoop@ewu.edu',
-        'twitter' : '@swoop',
-        'phone' : '509-359-2345',
-        'logo'  : {
-          'url' : '/assets/img/thinkingdesign-update.svg',
-          'alt' : 'thinking design logo'
-        }
-    }
- %}
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  {% include '_includes/head.html' %}
+  {% include head.html %}
 </head>
 <body>
-  {% include '_includes/header.html' %}
+  {% include header.html %}
   <section class="hero is-fullheight" style="background: url('https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b1a48d921059923e88ec28de5a615154&auto=format&fit=crop&w=1267&q=80') center / cover;">
     
     <div class="hero-body">
@@ -34,9 +20,9 @@
     </div>
   </section>
   
-  {% include '_includes/footer.html' %}
+  {% include footer.html %}
   
-  {% include '_includes/scripts.html' %}
+  {% include scripts.html %}
   
 </body>
 </html>

@@ -1,5 +1,6 @@
 ---
 title: Graduation Thoughts
+layout: projects
 date: 2018-06-04 21:27:00 Z
 ---
 
