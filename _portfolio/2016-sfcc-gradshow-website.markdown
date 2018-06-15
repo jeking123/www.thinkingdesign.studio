@@ -4,7 +4,7 @@ date: 2018-06-06 18:30:00 Z
 position: 3
 layout: projects
 thumbnail-image: "/uploads/Spectrum-Website.jpg"
-full-Image: http://via.placeholder.com/1200x400
+image: http://via.placeholder.com/1200x400
 caption: SFCC 2016 Gradshow Website - Silver Student Addy Award
 ---
 

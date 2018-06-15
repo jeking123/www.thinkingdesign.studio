@@ -4,7 +4,7 @@ date: 2018-06-04 21:30:00 Z
 position: 2
 layout: projects
 thumbnail-image: "/uploads/Wire_thumb.jpg"
-full-image: "/uploads/wireharp_full.png"
+image: "/uploads/wireharp_full.png"
 caption: Wire Harp Annual Art & Literature Magazine - Silver Student  Addy Award
 ---
 
