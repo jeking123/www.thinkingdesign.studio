@@ -26,3 +26,4 @@ defaults:
 permalink: pretty
 plugins:
 - jekyll-sitemap
+logo: "/uploads/thinkingdesign-update.svg"
