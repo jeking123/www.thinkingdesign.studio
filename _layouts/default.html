@@ -1,17 +1,54 @@
+<!-- Site Meta Data via Nunjucks -->
+ {% set site = {
+    
+        'title' : 'Thinking Design',
+        'email' : 'swoop@ewu.edu',
+        'twitter' : '@swoop',
+        'phone' : '509-359-2345',
+        'logo'  : {
+          'url' : '/assets/img/thinkingdesign-update.svg',
+          'alt' : 'thinking design logo'
+        }
+    }
+ %}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>{{site.title}}</title>
-  
-  <style>
-    body { background: grey; }
-  </style>
-  
+  {% include '_includes/head.html' %}
 </head>
 <body>
-  {{ content }}
+    {% include '_includes/header.html' %}
+<!--  style="background: url('https://images.unsplash.com/photo-1452421822248-d4c2b47f0c81?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b1a48d921059923e88ec28de5a615154&auto=format&fit=crop&w=1267&q=80') center; clip-path: polygon(0 10%, 100% 0, 100% 90%, 0 100%);"  -->
+  <section class="hero is-fullheight has-background-primary">
+    
+    <div class="hero-body">
+      
+      <div class="container content center has-text-centered" id="intro">
+        <h2 class="title is-size-1 is-marginless"> Welcome.</h2><br>
+        <p class="has-text-left">Thinking Design Studio, as a company, is many things. It's who I am, but also what I do, and what I've done. I'm a student, and have been a student for many years, however, I'm also a local professional and artist. I'm Jeremy King, a local designer, student, and professional in the Spokane area. I'm a Front-End Developer and will soon graduate from Eastern Washington University with minors in Art and Japanese.</p>
+        <p class="has-text-left">My plans for this site, will be to post my work, projects, art, travel, photography, and general info I come across. This will be my platform to communicate my skills, capabitlities, experiences and some of my interests. </p>
+        <p class="has-text-left ">
+          Please follow along with me if you would like to keep in touch and see what I've been working on.
+        </p>
+        <p class="has-text-right">- Jeremy King | Thinking Design</p>
+      </div>
+    </div>
+    
+    {% block hero %}
+    <!--  fullwidth header -->
+    {% endblock %}  
+  </section>
+  
+  <section>
+    {% block work %}
+    <!-- this is my content -->
+    {% endblock %}
+  </section>
+  
+  {% include '_includes/footer.html' %}
+      
+  {% include '_includes/scripts.html' %}
+  
 </body>
 </html>
