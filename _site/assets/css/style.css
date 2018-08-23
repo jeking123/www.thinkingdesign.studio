@@ -50,9 +50,10 @@ body {
   transition: opacity .5s ease;
 }
 
-.grid-item div:hover + .grid-item-a{
+.grid-item div:hover + .grid-item-a {
   display: block;
 }
+
 .grid-item-a:hover {
   display: block;
   opacity: 1;
