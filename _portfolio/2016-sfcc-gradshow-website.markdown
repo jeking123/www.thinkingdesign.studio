@@ -4,7 +4,7 @@ date: 2018-06-06 18:30:00 Z
 position: 3
 layout: projects
 thumbnail-image: "/uploads/Spectrum-Website-thumb-alt.jpg"
-image: '/uploads/Spectrum-Website-thumb-alt.jpg'
+image: "/uploads/Spectrum-Website-thumb-alt.jpg"
 caption: Developed & Built the design - Silver Student Addy Award
 ---
 

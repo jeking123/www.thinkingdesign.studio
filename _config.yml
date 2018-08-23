@@ -27,4 +27,3 @@ permalink: pretty
 plugins:
 - jekyll-sitemap
 logo: "/uploads/thinkingdesign-update.svg"
-# baseurl: https://www.thinkingdesign.studio
