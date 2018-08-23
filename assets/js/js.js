@@ -26,7 +26,7 @@ masonryGrid();
 
 //Apply a randome class to each grid-item to determine size
 $(document).ready(function(){
-    var classes = ["sm-square", "lg-square"];
+    var classes = ["sm-square", "sm-square", "lg-square"];
     //var classes = ["sm-square","sm-square","sm-square","wide","tall", "lg-square"];
 
     $("#grid .grid-item").each(function(){
