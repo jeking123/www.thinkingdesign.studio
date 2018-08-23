@@ -5,7 +5,7 @@ position: 2
 layout: projects
 thumbnail-image: "/uploads/Wire_thumb.jpg"
 image: "/uploads/wireharp_full.png"
-caption: Wire Harp Annual Art & Literature Magazine - Silver Student  Addy Award
+caption: Annual Creative Literature & Art Publication - Silver Student  Addy Award
 ---
 
 An annual creative lit and art publication by Spokane Falls Community College. During this project, I worked under a design professor to manage the assets and develop the book. I selected paper stock for the inside and exterior of the book and chose to foil stamp the cover graphic.

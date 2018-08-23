@@ -5,15 +5,19 @@
 </head>
 <body>
   {% include header.html %}
-  <section class="hero is-fullheight" style="background: url({{page.image}}) center / cover;">
+  <section class="hero is-fullheight is-halfheight-mobile" style="background: url({{page.image}}) center / cover;">
     
     <div class="hero-body">
      
     </div> 
   </section>
   
-  <section class="section has-text-grey-dark" style="">
+  <section class="section is-small has-text-grey-dark" style="padding: 3rem 0rem;">
     <div class="article-grid content">
+      <div class="title">
+        <div class="has-text-weight-bold">{{page.title}}</div>
+        <div class="has-text-weight-light is-size-7">{{page.caption}}</div>
+      </div>
       {{content}}
     </div>
   </section>

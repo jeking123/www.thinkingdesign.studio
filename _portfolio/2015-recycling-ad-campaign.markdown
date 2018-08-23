@@ -4,8 +4,8 @@ date: 2018-06-06 18:42:00 Z
 position: 4
 layout: projects
 thumbnail-image: "/uploads/recycle_thumb.jpg"
-image: "/uploads/ad_cam_full.png"
-caption: Recycling Ad Campaign - Silver Student Addy Award
+image: "/uploads/ad-cam-full.jpg"
+caption: Recycling Ad Campaign - Gold Student Addy Award
 ---
 
 For my ad campaign, I was thinking a lot about how the world is affected by our trash, and how important it is for us as a society to ensure that we minimize our effect on the environment.

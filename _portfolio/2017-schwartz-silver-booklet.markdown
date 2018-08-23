@@ -3,9 +3,9 @@ title: 2017 | Schwartz Silver Booklet
 date: 2018-06-06 18:55:00 Z
 position: 1
 layout: projects
-thumbnail-image: http://via.placeholder.com/500x500
-image: http://via.placeholder.com/1200x400
-caption: Schwartz Silver Booklet editorial design
+thumbnail-image: '/uploads/schwarzsilver-thumb.jpg'
+image: '/uploads/schwarzsilver-full.jpg'
+caption: Booklet & Editorial Design
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quam metus, lobortis non ultricies id, commodo quis mi. Nunc sed justo ut turpis lacinia sodales. Fusce blandit ante mi, ut iaculis ligula tristique eget. Aliquam non urna bibendum, ullamcorper enim accumsan, faucibus magna. Praesent nec finibus lacus. Pellentesque ex purus, suscipit vulputate tortor eu, euismod suscipit odio. Praesent molestie justo nec auctor faucibus.
