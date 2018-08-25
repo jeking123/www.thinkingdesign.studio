@@ -3,7 +3,9 @@ body {
   background-color: #eee;
   overflow: hidden;
 }
-
+.footer {
+  padding: 1.5rem;
+}
 .is-paddingless-bot {
   padding-bottom: 0px;
 }
