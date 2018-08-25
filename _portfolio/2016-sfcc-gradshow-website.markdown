@@ -15,3 +15,5 @@ Another student shot drone footage of the event venue and applied a simple anima
 From there we changed content, added a sponsor wall. Then, I developed out the Students page, using SVG clipping paths and floats to sync the student's page with our triangle brand identity. We color synced the photos to each program that was participating in the gradshow.
 
 With that, our gradshow website was ready to launch.
+
+Follow the link to view the live site [2016 SFCC Gradshow Site](http://jeremykingdesign.com/class2016/)

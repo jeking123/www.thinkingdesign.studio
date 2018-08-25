@@ -8,7 +8,7 @@ image: "/uploads/ad-cam-full.jpg"
 caption: Recycling Ad Campaign - Gold Student Addy Award
 ---
 
-For my ad campaign, I was thinking a lot about how the world is affected by our trash, and how important it is for us as a society to ensure that we minimize our effect on the environment.
+For this ad campaign, I was thinking a lot about how the world is affected by our trash, and how important it is for us as a society to ensure that we minimize our effect on the environment.
 
 In my search to create a powerful impact with my graphic, I wanted to think about the inverse and what would happen if we failed to preserve our world as we know it. In that idea, rather than going cliche with the use of a destroyed and decaying world. I wanted to use graphics and imagery that we closely associate with garbage.
 
