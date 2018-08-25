@@ -3,7 +3,7 @@ title: 2016 | Wireharp
 date: 2018-06-04 21:30:00 Z
 position: 2
 layout: projects
-thumbnail-image: "/uploads/Wire_thumb.jpg"
+thumbnail-image: "/uploads/wire-harp-thumb.jpg"
 image: "/uploads/wireharp_full.png"
 caption: Annual Creative Literature & Art Publication - Silver Student  Addy Award
 ---
