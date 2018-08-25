@@ -1,10 +1,10 @@
 ---
-title: 2018 | Idle Kingdoms
+title: 2018 | Idle Kingdoms Web App
 date: 2018-08-24 18:42:00 Z
 position: 8
 layout: projects
-thumbnail-image: "/uploads/idle-kingdoms-thumb.jpg"
-image: "/uploads/idle-kingdoms-cover.jpg"
+thumbnail-image: "/uploads/idle-kingdoms-thumb-alt.jpg"
+image: "/uploads/idle-kingdoms-cover-alt.jpg"
 caption: Vue JS Game
 ---
 Test it out:
