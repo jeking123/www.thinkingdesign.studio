@@ -22,5 +22,7 @@ My first run at vue, much simpler
 
 I then set out and knew that I needed to really jump in before I would get anywhere. This stared a serious delve into learning the framework, I completed a few small projects, that each progressed on the previous version. This then got me into using the VUE CLI interface to develope full vue apps with components, routing, vuex statemanagement and server connections. Which got me to where the game is now.
 
+Take a look at the [GitHub Repo](https://github.com/jeking123/idle-kingdoms)
+
 Moving forward from this point, I will continue to develop out the game. Building out the choices, consequnces, and depth of play. I'm also planning to set it up to have user authentication and management, so that you can save and load progress.
 
