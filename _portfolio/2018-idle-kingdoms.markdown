@@ -7,6 +7,7 @@ thumbnail-image: "/uploads/idle-kingdoms-thumb-alt.jpg"
 image: "/uploads/idle-kingdoms-cover-alt.jpg"
 caption: Vue JS Game
 ---
+
 Test it out:
 [Vue.js Idle Kingdoms Game](https://s3-us-west-2.amazonaws.com/idle-kingdoms/index.html)
 
