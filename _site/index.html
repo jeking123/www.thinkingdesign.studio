@@ -6,19 +6,20 @@
 <title>Thinking Design</title>
 
 <!-- iOS MetaTags -->
-<!-- Change Name of App -->
-<meta name="apple-mobile-web-app-title" content="My Progressive Web App">
+<meta name="apple-mobile-web-app-title" content="Thinking Design">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-<!-- iOS Splash Screen & Favicons for iPhones. Create your own iPad sizes -->
-<link href="/img/favicons/apple_splash_750.png" sizes="750x1334" rel="apple-touch-startup-image" />
-<link href="/img/favicons/apple_splash_640.png" sizes="640x1136" rel="apple-touch-startup-image" />
-<link href="/img/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180" >
-
-<!-- Favicons. Not iOS -->
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicons/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicons/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicons/favicon-16x16.png">
+<link rel="manifest" href="/assets/img/favicons/site.webmanifest">
+<link rel="mask-icon" href="/assets/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/assets/img/favicons/favicon.ico">
+<meta name="msapplication-TileColor" content="#00aba9">
+<meta name="msapplication-config" content="/assets/img/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
 
 <!-- Styles -->
 <!--     <link rel="stylesheet" href="/assets/css/reset.css"> -->
@@ -36,16 +37,15 @@
     <header class="has-background-grey has-text-white">
   <div class="section is-paddingless-bot">
     <div class="columns">
-      <div class="column is-offset-two-fifths is-one-fifth">
-      <a href="/">
+      <div class="column is-offset-two-fifths is-one-fifth is-offset-one-fifth-mobile is-three-fifths-mobile">
+      <a href="https://www.thinkingdesign.studio/">
       <img src="/uploads/thinkingdesign-update.svg" alt="Thinking Design Logo">
       </a>
       </div>
     </div>
   </div>
-  <div class="section">
-    <div class="columns">
-      <div class="column"></div>
+  <div class="section has-text-weight-bold">
+    <div class="columns is-mobile is-centered">
       <div class="column is-narrow">
         <a class="has-text-light" href="/#about">About</a>
       </div>
@@ -53,7 +53,7 @@
         <a class="has-text-light" href="/#portfolio">Portfolio</a>
       </div>
       <div class="column is-narrow">
-        <a class="has-text-light" href="/hireme#contact">Hire Me</a>
+        <a class="has-text-light" href="https://www.thinkingdesign.studio/hireme#contact">Hire Me</a>
       </div>
       <div class="column is-narrow">
         <a class="has-text-light" href="https://www.instagram.com/kingly_design/" target="_blank"><i class="fab fa-instagram"></i></a>
@@ -61,8 +61,6 @@
       <div class="column is-narrow">
         <a class="has-text-light" href="https://www.linkedin.com/in/jeremy-king-503332b8/" target="_blank"><i class="fab fa-linkedin-in"></i></a>
       </div>
-      <div class="column"></div>
-
     </div>
   </div>
 </header>
@@ -73,7 +71,7 @@
       
       <div class="container content center has-text-left" id="intro">
         <h1 id="ive-been-thinking">I’ve been thinking</h1>
-<p>Over the last five years, I’ve been a student. First at Spokane Fall Community College and then Eastern Washington University. I’ve spent some time traveling around the US. I’ve studied abroad in Japan for a month. I’ve interned and proceeded to do freelance work for a local marketing firm. I’ve worked on campus for SFCC working on Annual School Publication The Wire Harp and at Eastern doing design work for the Theatre Department. I’ve won awards, and I’ve participated in one-day design competitions for charity, even winning one (with the help of some pretty amazing designers and friends). I’ve visited design firms in Seattle and Spokane. I’ve talked with some amazing people and found some incredible friends.</p>
+<p>Over the last five years, I’ve been a student. First at Spokane Fall Community College and then Eastern Washington University. I’ve spent some time traveling around the US. I’ve studied abroad in Japan for a month. I’ve interned and proceeded to do freelance work for a local marketing firm. I’ve worked on campus for SFCC working on The Wire Harp and at Eastern publicity designer for the Theatre Department. I’ve won awards, and I’ve participated in one-day design competitions for charity, even winning one (with the help of some pretty amazing designers and friends). I’ve visited design firms in Seattle and Spokane. I’ve talked with some amazing people and found some incredible friends.</p>
 
 <p>Although, during all this, I’ve been a student. Maybe, it’s time to start looking at this differently. With my educational career coming to a close in the near future, it’s time to start thinking design.</p>
 
@@ -94,7 +92,7 @@
     
     <div class="grid-item">
         <div style="position: relative; width: 100%; height: 100%; top:0;">
-          <div style="background: url(' /uploads/Wire_thumb.jpg ') center / cover ; width: 100%; height: 100%;" ></div>
+          <div style="background: url(' /uploads/wire-harp-thumb.jpg ') center / cover ; width: 100%; height: 100%;" ></div>
           <a class="grid-item-a" style="position: absolute;" href="/portfolio/2016-Wireharp/" style="width:100%; height: 100%;">
             <div class="title has-text-white has-text-centered grid-hover-align"><div>2016 | Wireharp</div></div>
           </a>
@@ -121,7 +119,7 @@
     
     <div class="grid-item">
         <div style="position: relative; width: 100%; height: 100%; top:0;">
-          <div style="background: url(' /uploads/Takaosan-thumb.jpg ') center / cover ; width: 100%; height: 100%;" ></div>
+          <div style="background: url(' /uploads/Takaosan-Mockup-thumb.jpg ') center / cover ; width: 100%; height: 100%;" ></div>
           <a class="grid-item-a" style="position: absolute;" href="/portfolio/2017-takaosan-poster/" style="width:100%; height: 100%;">
             <div class="title has-text-white has-text-centered grid-hover-align"><div>2017 | Takaosan Poster</div></div>
           </a>
@@ -155,6 +153,15 @@
         </div>
     </div>
     
+    <div class="grid-item">
+        <div style="position: relative; width: 100%; height: 100%; top:0;">
+          <div style="background: url(' /uploads/idle-kingdoms-thumb-alt.jpg ') center / cover ; width: 100%; height: 100%;" ></div>
+          <a class="grid-item-a" style="position: absolute;" href="/portfolio/2018-idle-kingdoms/" style="width:100%; height: 100%;">
+            <div class="title has-text-white has-text-centered grid-hover-align"><div>2018 | Idle Kingdoms Web App</div></div>
+          </a>
+        </div>
+    </div>
+    
     </div>
   </section>
   
@@ -164,15 +171,17 @@
       <div class="column"><p><span class="has-text-weight-bold">Located in</span> <br> Spokane, WA</p></div>
       <div class="column"><p><span class="has-text-weight-bold">Contact me at</span> <br> jeremykingdesign@gmail.com</p></div>
       <div class="column"><p><span class="has-text-weight-bold">instagram</span> <br> kingly_design</p></div>
+      <div class="column"><p><span class="has-text-weight-bold">GitHub</span> <br><a href="https://github.com/jeking123/www.thinkingdesign.studio">Thinking Design Github Repo</a></p></div>
       <div class="column desktop"></div>
     </div>
   </footer>
   
-  <section class="is-fullwidth has-background-black-ter">
-    <div class="columns is-fullwidth has-text-grey">
-      <div class="column is-12 has-text-centered"><p>&copy; Copyright Thinking Design 2018</p></div>
+  <section class="footer has-background-black-ter">
+    <div class="has-text-grey has-text-centered">
+      <p>&copy; Copyright Thinking Design 2019</p>
     </div>
   </section>
+
       
       <!-- Jquery -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
