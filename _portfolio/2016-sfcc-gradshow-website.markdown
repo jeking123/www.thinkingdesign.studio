@@ -16,4 +16,4 @@ From there we changed content, added a sponsor wall. Then, I developed out the S
 
 With that, our gradshow website was ready to launch.
 
-Follow the link to view the live site [2016 SFCC Gradshow Site](http://jeremykingdesign.com/class2016/)
+Follow the link to view the live site [2016 SFCC Gradshow Site](http://jeremyking.dev/class2016/)
