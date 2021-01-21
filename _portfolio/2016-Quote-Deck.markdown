@@ -14,4 +14,4 @@ So I set out to find quotes from people who have always inspired me. Although th
 
 But it worked and turned out to be relatively easy. Follow the link below to test it out.
 
-[Codepen Quote Deck](https://codepen.io/jeking123/pen/jvbMmv?editors=1100)
+[Codepen Quote Deck](https://codepen.io/jeking123/pen/jvbMmv?editors=1100){:target="_blank"}
