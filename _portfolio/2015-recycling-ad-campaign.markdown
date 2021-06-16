@@ -4,7 +4,7 @@ date: 2018-06-06 18:42:00 Z
 position: 4
 layout: projects
 thumbnail-image: "/uploads/recycle_thumb.jpg"
-image: "/uploads/ad-cam-full.jpg"
+image: "/uploads/ad-cam-full.png"
 caption: Recycling Ad Campaign - Gold Student Addy Award
 ---
 
